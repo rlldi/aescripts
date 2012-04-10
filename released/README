@@ -1,8 +1,5 @@
 ■SceneSplitter:
 	オーディオレイヤーにつけたマーカーからシーンを切り出して子コンポ自動生成するAEスクリプト。 実行イメージ→ http://twitpic.com/5zilh5
 
-■lyricalMagical.jsx
+■LyricalMagical.jsx
 	テロップの順次表示（歌詞とか）に便利なテキストレイヤーを、自動的に生成するスクリプト。 実行イメージ→ http://twitpic.com/73yq8f
-
-■expressions:
-	エクスプレッションのスニペット。
